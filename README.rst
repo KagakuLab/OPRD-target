@@ -1,4 +1,4 @@
-OPRDbench: A Manufacturing Chemistry Benchmark for CASP Tools
+OPRD-target: A Manufacturing Chemistry Benchmark for CASP Tools
 =============================================================
 
 This repository contains a benchmark dataset of target molecules extracted from the
@@ -26,7 +26,7 @@ CASP predictions.
 Dataset
 -------
 
-The dataset `OPRDbench_1997_2022.csv <https://github.com/KagakuLab/OPRDbench/blob/main/OPRDbench_1997_2022.csv>`_ contains **2219 unique target molecules** extracted
+The dataset `OPRD-target_1997_2022.csv <https://github.com/KagakuLab/OPRD-target/blob/main/OPRD-target_1997_2022.csv>`_ contains **2219 unique target molecules** extracted
 from OPRD publications covering the period 1997-2022.
 
 Each entry consists of:
