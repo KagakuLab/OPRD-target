@@ -37,7 +37,7 @@ Each entry consists of:
 - **target** - the target molecule in SMILES format
 - **doi** - the DOI of the source OPRD publication
 
-**Note:**The dataset contains only target structures and literature references.
+**Note:** The dataset contains only target structures and literature references.
 Synthetic routes are **not** digitized and can be retrieved from the cited publications.
 
 The relationship between entries is not strictly one-to-one: the same molecule may appear
