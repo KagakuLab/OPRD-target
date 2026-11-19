@@ -5,6 +5,9 @@ This repository contains a benchmark dataset of target molecules extracted from 
 **Organic Process Research & Development** (OPRD) journal, intended for the evaluation
 of Computer-Aided Synthesis Planning (CASP) tools on manufacturing chemistry targets.
 
+.. figure:: docs/OPRD.png
+   :width: 800px
+
 Motivation
 ----------
 
@@ -52,6 +55,3 @@ Preprint
 -----
 
 More details can be found in preprint: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010421/v1
-
-.. figure:: docs/OPRD.png
-   :width: 800px
