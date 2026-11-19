@@ -52,3 +52,6 @@ Preprint
 -----
 
 More details can be found in preprint: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010421/v1
+
+.. figure:: docs/OPRD.png
+   :width: 800px
